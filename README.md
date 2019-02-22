@@ -59,4 +59,14 @@
 
 -  `@whetherBottom` 是暴露给用户的一个方法，这个方法会有一个参数，这个参数是一个 Boolean 值，告诉用户 当前是否到达了列表的最底部
 
+### 使用方法：
+- 目前支持把 scroll_box.vue 文件 download 下来，作为组件使用；
+
+
+### 依赖：
+- vue
+- jade
+- stylus
+- ...
+
 
